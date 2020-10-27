@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 1229,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-basic-azure-asm-vm-details-for-multiple-subscriptions/master/Export_ASM_VMs.ps1",
+    "DownloadCount": 733,
+    "Id": "Export-Basic-Azure-ASM-VM-c9ff446f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 530,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "A quick script for exporting basic Azure Classic or ASM Virtual Machine details across multiple subscriptions.Useful for audit, record keeping or sharing pertinent details with parties without access to your environments.The script will prompt for selection of subscriptions using",
+    "Title": "Export Basic Azure ASM VM details for Multiple Subscriptions",
+    "UpdatedDate": "2017-12-19T00:00:00",
+    "Url": "https://github.com/azureautomation/export-basic-azure-asm-vm-details-for-multiple-subscriptions",
+    "UserTags": "Azure, Microsoft Azure, Virtual Machine"
+}
